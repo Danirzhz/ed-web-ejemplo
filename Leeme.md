@@ -1,3 +1,3 @@
 ##Autores
-Daniel danirzhzdam@gmail.com
+Daniel Ruiz Hernandez danirzhzdam@gmail.com
 https://github.com/Danirzhz
